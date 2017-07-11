@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basketball Score Tracker</string>
+    <string name="team_a_label">Team A</string>
+    <string name="foul_label">foul</string>
+    <string name="team_b_label">Team B</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="fouls_label">Fouls</string>
+</resources>
